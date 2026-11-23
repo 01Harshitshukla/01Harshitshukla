@@ -18,7 +18,7 @@
 
 ### 🚀 About Me
 
-* 💻 BCA student at **Babu Banarasi Das University (BBD University), Lucknow**
+* 💻 BCA student
 * 🔭 Building **Ledgerix — Spare Parts Audit Ledger**, a full-stack web application.
 * ⚛️ Working with **React.js, Vite and JavaScript** for frontend development.
 * 🛠️ Building backend systems using **Node.js and Express.js**.
